@@ -13,7 +13,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=C5F942&center=true&vCenter=true&width=720&height=54&lines=%E2%9C%A6+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="* system message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C5F942&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A6+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="* system message" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <img src="./alizo.jpg" width="100%" alt="alizo" />
 
-### Hi, I'm alizo <br/>
+## Hi, I'm alizo <br/>
 <sub>Building things in Horsens 🇩🇰</sub>
 
 </td>
@@ -42,12 +42,18 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
+</div>
+
 <!-- ───────── BOARD GRID 1 ───────── -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### ⚡ /tech-stack
+## ⚡ /tech-stack
 
 ![Java](https://img.shields.io/badge/Java-C5F942?style=flat-square&logo=openjdk&logoColor=0d0d0f&color=C5F942)
 ![Python](https://img.shields.io/badge/Python-C5F942?style=flat-square&logo=python&logoColor=0d0d0f&color=C5F942)
@@ -78,6 +84,12 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✧ ▬▬▬▬▬▬▬ ◥</code>
+</div>
+
 <!-- ───────── NOW PLAYING (functional Spotify) ───────── -->
 <table width="100%">
 <tr>
@@ -89,7 +101,7 @@ const games    = ["TLoU", "Deltarune"];
 </td>
 <td width="55%" valign="top" align="center">
 
-### 🎧 now playing
+## 🎧 now playing
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="320" alt="Spotify now playing" />
 </a>
@@ -98,8 +110,14 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
+</div>
+
 <!-- ───────── PROGRESS LOG (LIVE GITHUB STATS) ───────── -->
-### 📈 /progress-log
+## 📈 /progress-log
 
 <div align="center">
 
@@ -118,6 +136,12 @@ const games    = ["TLoU", "Deltarune"];
 
 </div>
 
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✧ ▬▬▬▬▬▬▬ ◥</code>
+</div>
+
 <!-- ───────── BOARD GRID 2 ───────── -->
 <table width="100%">
 <tr>
@@ -129,7 +153,7 @@ const games    = ["TLoU", "Deltarune"];
 </td>
 <td width="60%" valign="top">
 
-### 🏆 /achievements
+## 🏆 /achievements
 
 <big>🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config </big><br/>
 <big>🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics </big><br/>
@@ -137,7 +161,7 @@ const games    = ["TLoU", "Deltarune"];
 
 <br/>
 
-### 🗣️ languages
+## 🗣️ languages
 
 <img src="https://img.shields.io/badge/spoken-5-C5F942?style=for-the-badge&labelColor=0d0d0f" alt="5 languages" />
 
@@ -147,10 +171,16 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
-<!-- ───────── CONNECT ───────── -->
-### ✦ let's connect
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
+</div>
 
-Always down to collab or just chat.
+<!-- ───────── CONNECT ───────── -->
+## ✦ let's connect
+
+<big>Always down to collab or just chat.</big>
 
 <p>
 <a href="mailto:alexturcanu03@gmail.com"><img src="https://img.shields.io/badge/Transmit_a_message-↗-C5F942?style=for-the-badge&logo=gmail&logoColor=0d0d0f&labelColor=0d0d0f&color=C5F942" alt="email" /></a>
