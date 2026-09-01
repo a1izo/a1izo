@@ -1,8 +1,8 @@
 
-<!-- ───────── BANNER (img2.gif) ───────── -->
+<!-- ───────── BANNER ───────── -->
 <div align="center">
 
-<img src="./img2.gif" width="100%" height="150" alt="alizo's board banner" />
+<img src="./img2.gif" width="100%" alt="alizo's board banner" />
 
 # alizo's Board ✦
 
@@ -42,6 +42,7 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
+<!-- ───────── BOARD GRID 1 ───────── -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -89,9 +90,8 @@ const games    = ["TLoU", "Deltarune"];
 <td width="55%" valign="top" align="center">
 
 #### 🎧 now playing
-
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0f&bar_color=1DB954&bar_color_cover=true" width="320" alt="Spotify now playing" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="320" alt="Spotify now playing" />
 </a>
 
 </td>
@@ -104,21 +104,19 @@ const games    = ["TLoU", "Deltarune"];
 <div align="center">
 
 <a href="https://github.com/a1izo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="alizo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="alizo's GitHub stats" />
 </a>
 <a href="https://github.com/a1izo">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="alizo's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="alizo's GitHub streak" />
 </a>
 
 <br />
 
 <a href="https://github.com/a1izo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="alizo's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="alizo's top languages" />
 </a>
 
 </div>
-
-<sub>If a card ever shows as a broken image, the public stats service is momentarily rate-limited — just refresh.</sub>
 
 <!-- ───────── BOARD GRID 2 ───────── -->
 <table width="100%">
@@ -161,5 +159,5 @@ Always down to collab or just chat.
 </p>
 
 <div align="center">
-<img src="./img2.gif" width="100%" height="90" alt="" />
+<img src="./img2.gif" width="100%" alt="" />
 </div>
