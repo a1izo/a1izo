@@ -1,40 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4C4C,100:FF9A4C&height=180&section=header&text=Hey,%20I'm%20Alex!%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20🍊&descAlignY=55&descSize=18"/>
+  <img src="banner.svg" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/a1izo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexandru-turcanu-377642295">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://alextudev.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" height="40" alt="Website"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="36" height="36" alt="Website"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qLvHdCFXChcpKV1uXt/giphy.gif" width="320"/>
-</p>
-
-<h3 align="center">🍑 pilot mode: engaged 🍑</h3>
-
----
-
-### 👨‍💻 About Me
+<img src="about.svg" width="100%"/>
 
 ```yaml
-name: "Alex"
-role: "First-year Software Engineering Student @ VIA University College"
-location: "Aarhus, Denmark 🇩🇰"
-job: "Studenterunderviser @ VIA"
-previously: "Taught Arduino & embedded systems @ ROBOCODE"
 languages_spoken: ["Romanian (native)", "English (fluent)", "French (B2)", "Russian (B2)", "Danish (learning)"]
-currently_learning: "Danish, and whatever breaks in my next project"
-fun_fact: "Was Scrum Master on a Flight Booking System project"
+past_projects: "Scrum Master on a Flight Booking System"
+currently: "chasing side-projects, breaking things on purpose to learn how they work"
 ```
 
 ---
@@ -56,20 +43,16 @@ fun_fact: "Was Scrum Master on a Flight Booking System project"
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF6B4A&icon_color=FF9A4C&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF6B4A&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0a0a0a&title_color=c62828&icon_color=e64a19&text_color=e0e0e0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0a0a0a&title_color=c62828&text_color=e0e0e0" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&theme=radical&hide_border=true&background=1a1a1a&ring=FF6B4A&fire=FF9A4C&currStreakLabel=FF6B4A"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&theme=dark&hide_border=true&background=0a0a0a&ring=c62828&fire=e64a19&currStreakLabel=c62828"/>
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/a1izo/a1izo/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A4C,100:FF4C4C&height=100&section=footer"/>
 </p>
