@@ -121,13 +121,13 @@ const games    = ["TLoU", "Deltarune"];
 <!-- ───────── BOARD GRID 2 ───────── -->
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
 <img src="./img4.jpg" width="100%" alt="/angel-aura" />
 <sub><code>/angel-aura</code></sub>
 
 </td>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 #### 🏆 /achievements
 
