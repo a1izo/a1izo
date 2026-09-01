@@ -114,8 +114,8 @@ const games    = ["TLoU", "Deltarune"];
     3. Replace both YOUR_SPOTIFY_UID below with that uid.
   After that, this card updates live with whatever you're playing.
 -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0f&bar_color=1DB954&bar_color_cover=true" width="320" alt="Spotify now playing" />
+<a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0f&bar_color=1DB954&bar_color_cover=true" width="320" alt="Spotify now playing" />
 </a>
 
 </td>
