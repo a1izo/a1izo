@@ -127,18 +127,12 @@
 
 <div align="center">
 
-<!-- Committed by the profile-summary-cards workflow — always loads, never rate-limited -->
-<img src="./profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="alizo's profile details" />
-
-<br /><br />
-
-<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" alt="alizo's GitHub stats" />
+<img src="./assets/stats.svg" width="49%" alt="alizo's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="alizo's GitHub streak" />
 
 <br /><br />
 
-<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="alizo's most used languages" />
-<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="49%" alt="alizo's productive time" />
+<img src="./assets/top-langs.svg" width="49%" alt="alizo's top languages" />
 
 </div>
 
