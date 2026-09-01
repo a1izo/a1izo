@@ -3,14 +3,16 @@ name: cache-stat-cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  
   workflow_dispatch:          
+
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
@@ -20,16 +22,23 @@ jobs:
           STATS="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true"
           LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8"
 
-          curl -sSL --retry 6 --retry-delay 15 --retry-all-errors "$STATS" -o assets/stats.svg
-          curl -sSL --retry 6 --retry-delay 15 --retry-all-errors "$LANGS" -o assets/top-langs.svg
+          # -f fails on HTTP errors (so 429 triggers a retry and the guard below),
+          # --connect-timeout/--max-time stop curl from hanging forever.
+          fetch() {
+            curl -fsSL --connect-timeout 15 --max-time 45 \
+                 --retry 3 --retry-delay 8 --retry-all-errors "$1" -o "$2"
+          }
 
-          # Guard: only keep files that are real SVGs, so a rate-limited
-          # fetch never overwrites a good card with an error page.
+          fetch "$STATS" assets/stats.svg || echo "::warning::stats fetch failed"
+          fetch "$LANGS" assets/top-langs.svg || echo "::warning::top-langs fetch failed"
+
+          # Guard: only keep files that are real SVGs, so a rate-limited fetch
+          # never overwrites a good card with an error page. Missing/invalid
+          # files are restored from the last committed version if one exists.
           for f in assets/stats.svg assets/top-langs.svg; do
-            if ! grep -q "<svg" "$f"; then
-              echo "::error::$f is not a valid SVG (fetch likely rate-limited)"
+            if [ ! -s "$f" ] || ! grep -q "<svg" "$f"; then
+              echo "::warning::$f invalid — restoring previous version"
               git checkout -- "$f" 2>/dev/null || rm -f "$f"
-              exit 1
             fi
           done
 
@@ -37,6 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/top-langs.svg
+          git add assets/*.svg 2>/dev/null || true
           git diff --quiet --staged || git commit -m "chore: refresh /progress-log stat cards"
           git push
