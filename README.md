@@ -30,13 +30,19 @@
 </td>
 <td width="68%" valign="top">
 
-```ts
-// ~/about-me.ts
-const location = "White Space";
-const roles    = ["student engineer", "video editor"];
-const games    = ["TLoU", "Deltarune"];
-// learn by doing, larp it 'til it's done
-```
+<big>
+
+`// ~/about-me.ts`
+
+`const location = "White Space";`
+
+`const roles = ["student engineer", "video editor"];`
+
+`const games = ["TLoU", "Deltarune"];`
+
+`// learn by doing, larp it 'til it's done`
+
+</big>
 
 </td>
 </tr>
@@ -55,24 +61,24 @@ const games    = ["TLoU", "Deltarune"];
 
 ## ⚡ /tech-stack
 
-![Java](https://img.shields.io/badge/Java-C5F942?style=flat-square&logo=openjdk&logoColor=0d0d0f&color=C5F942)
-![Python](https://img.shields.io/badge/Python-C5F942?style=flat-square&logo=python&logoColor=0d0d0f&color=C5F942)
-![C++](https://img.shields.io/badge/C++-C5F942?style=flat-square&logo=cplusplus&logoColor=0d0d0f&color=C5F942)
-![JavaScript](https://img.shields.io/badge/JavaScript-C5F942?style=flat-square&logo=javascript&logoColor=0d0d0f&color=C5F942)
-![SQL](https://img.shields.io/badge/SQL-C5F942?style=flat-square&logo=postgresql&logoColor=0d0d0f&color=C5F942)
-![React](https://img.shields.io/badge/React-C5F942?style=flat-square&logo=react&logoColor=0d0d0f&color=C5F942)
-![Node.js](https://img.shields.io/badge/Node.js-C5F942?style=flat-square&logo=nodedotjs&logoColor=0d0d0f&color=C5F942)
-![Tailwind](https://img.shields.io/badge/Tailwind-C5F942?style=flat-square&logo=tailwindcss&logoColor=0d0d0f&color=C5F942)
-![Figma](https://img.shields.io/badge/Figma-C5F942?style=flat-square&logo=figma&logoColor=0d0d0f&color=C5F942)
-![After Effects](https://img.shields.io/badge/After_Effects-C5F942?style=flat-square&logo=adobeaftereffects&logoColor=0d0d0f&color=C5F942)
-![Premiere](https://img.shields.io/badge/Premiere-C5F942?style=flat-square&logo=adobepremierepro&logoColor=0d0d0f&color=C5F942)
+![Java](https://img.shields.io/badge/Java-C5F942?style=for-the-badge&logo=openjdk&logoColor=0d0d0f&color=C5F942)
+![Python](https://img.shields.io/badge/Python-C5F942?style=for-the-badge&logo=python&logoColor=0d0d0f&color=C5F942)
+![C++](https://img.shields.io/badge/C++-C5F942?style=for-the-badge&logo=cplusplus&logoColor=0d0d0f&color=C5F942)
+![JavaScript](https://img.shields.io/badge/JavaScript-C5F942?style=for-the-badge&logo=javascript&logoColor=0d0d0f&color=C5F942)
+![SQL](https://img.shields.io/badge/SQL-C5F942?style=for-the-badge&logo=postgresql&logoColor=0d0d0f&color=C5F942)
+![React](https://img.shields.io/badge/React-C5F942?style=for-the-badge&logo=react&logoColor=0d0d0f&color=C5F942)
+![Node.js](https://img.shields.io/badge/Node.js-C5F942?style=for-the-badge&logo=nodedotjs&logoColor=0d0d0f&color=C5F942)
+![Tailwind](https://img.shields.io/badge/Tailwind-C5F942?style=for-the-badge&logo=tailwindcss&logoColor=0d0d0f&color=C5F942)
+![Figma](https://img.shields.io/badge/Figma-C5F942?style=for-the-badge&logo=figma&logoColor=0d0d0f&color=C5F942)
+![After Effects](https://img.shields.io/badge/After_Effects-C5F942?style=for-the-badge&logo=adobeaftereffects&logoColor=0d0d0f&color=C5F942)
+![Premiere](https://img.shields.io/badge/Premiere-C5F942?style=for-the-badge&logo=adobepremierepro&logoColor=0d0d0f&color=C5F942)
 
 **also fluent in**
 
-![Rubber Duck Debugging](https://img.shields.io/badge/Rubber_Duck_Debugging-FF6EC7?style=flat-square&labelColor=0d0d0f&color=FF6EC7)
-![git push --force](https://img.shields.io/badge/git_push_--force-FF6EC7?style=flat-square&labelColor=0d0d0f&color=FF6EC7)
-![larping](https://img.shields.io/badge/larping-FF6EC7?style=flat-square&labelColor=0d0d0f&color=FF6EC7)
-![3am Commits](https://img.shields.io/badge/3am_Commits-FF6EC7?style=flat-square&labelColor=0d0d0f&color=FF6EC7)
+![Rubber Duck Debugging](https://img.shields.io/badge/Rubber_Duck_Debugging-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
+![git push --force](https://img.shields.io/badge/git_push_--force-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
+![larping](https://img.shields.io/badge/larping-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
+![3am Commits](https://img.shields.io/badge/3am_Commits-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -121,18 +127,18 @@ const games    = ["TLoU", "Deltarune"];
 
 <div align="center">
 
-<a href="https://github.com/a1izo">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="alizo's GitHub stats" />
-</a>
-<a href="https://github.com/a1izo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="alizo's GitHub streak" />
-</a>
+<!-- Committed by the profile-summary-cards workflow — always loads, never rate-limited -->
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="alizo's profile details" />
 
-<br />
+<br /><br />
 
-<a href="https://github.com/a1izo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="alizo's top languages" />
-</a>
+<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" alt="alizo's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="alizo's GitHub streak" />
+
+<br /><br />
+
+<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="alizo's most used languages" />
+<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="49%" alt="alizo's productive time" />
 
 </div>
 
@@ -155,9 +161,9 @@ const games    = ["TLoU", "Deltarune"];
 
 ## 🏆 /achievements
 
-<big>🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config </big><br/>
-<big>🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics </big><br/>
-<big>🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects </big>
+<big><big>🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config </big></big><br/>
+<big><big>🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics </big></big><br/>
+<big><big>🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects </big></big>
 
 <br/>
 
