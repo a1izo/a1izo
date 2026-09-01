@@ -1,0 +1,42 @@
+
+name: cache-stat-cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:          
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stat cards
+        run: |
+          mkdir -p assets
+          STATS="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true"
+          LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8"
+
+          curl -sSL --retry 6 --retry-delay 15 --retry-all-errors "$STATS" -o assets/stats.svg
+          curl -sSL --retry 6 --retry-delay 15 --retry-all-errors "$LANGS" -o assets/top-langs.svg
+
+          # Guard: only keep files that are real SVGs, so a rate-limited
+          # fetch never overwrites a good card with an error page.
+          for f in assets/stats.svg assets/top-langs.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "::error::$f is not a valid SVG (fetch likely rate-limited)"
+              git checkout -- "$f" 2>/dev/null || rm -f "$f"
+              exit 1
+            fi
+          done
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg
+          git diff --quiet --staged || git commit -m "chore: refresh /progress-log stat cards"
+          git push
