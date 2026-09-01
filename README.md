@@ -1,23 +1,26 @@
 <!--
   ██  SUNNY'S BOARD ✦  ██  GitHub profile README
   Dark space-scrapbook / Y2K / Omori. Accents: lime #C5F942 · pink #FF6EC7
-  Layout uses HTML <table> because GitHub strips CSS — tables are the only
-  way to get side-by-side "board" cards. Live widgets read github.com/a1izo.
-  Spotify needs a 1-time setup — see the SETUP comment in that section.
+  Layout uses HTML <table> because GitHub strips CSS. No rounded corners.
+  Mood images are local files: img1.jpg img2.gif img3.gif img4.jpg
+  (keep them beside this README, or adjust the src paths below).
+  Live widgets read github.com/a1izo. Spotify needs 1-time setup — see comment.
 -->
 
 <!-- ───────── BANNER ───────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C5F942,100:FF6EC7&height=180&section=header&text=Sunny's%20Board%20✦&fontColor=0d0d0f&fontSize=54&fontAlignY=42&desc=software%20engineering%20student%20%C2%B7%20video%20editor%20%C2%B7%20Horsens%20%F0%9F%87%A9%F0%9F%87%B0&descAlignY=64&descSize=15" width="100%" alt="Sunny's Board" />
+<img src="src/imports/img2.gif" width="100%" height="150" alt="" />
+
+# Sunny's Board ✦
 
 <img src="https://img.shields.io/badge/status-ONLINE-C5F942?style=flat-square&labelColor=0d0d0f" alt="online" />
+<img src="https://img.shields.io/badge/📍_Horsens-🇩🇰-C5F942?style=flat-square&labelColor=0d0d0f" alt="location" />
 <a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF6EC7?style=flat-square&labelColor=0d0d0f" alt="portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF6EC7&label=pins+viewed" alt="views" />
 
 <br /><br />
 
-<!-- animated dialogue box (Omori system message) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=C5F942&center=true&vCenter=true&width=720&height=54&lines=%E2%9C%A6+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="* system message" />
 
 </div>
@@ -32,10 +35,9 @@ const hyperfixations = ["Omori", "Deltarune"];
 // learn by doing, own it 'til it's done
 ```
 
-<!-- ───────── BOARD GRID ───────── -->
+<!-- ───────── BOARD GRID 1 ───────── -->
 <table width="100%">
 <tr>
-<!-- LEFT: tech stack -->
 <td width="55%" valign="top">
 
 #### ⚡ /tech-stack
@@ -60,9 +62,23 @@ const hyperfixations = ["Omori", "Deltarune"];
 ![3am Commits](https://img.shields.io/badge/3am_Commits-FF6EC7?style=flat-square&labelColor=0d0d0f&color=FF6EC7)
 
 </td>
-
-<!-- RIGHT: now playing -->
 <td width="45%" valign="top" align="center">
+
+<img src="src/imports/img1.jpg" width="100%" alt="everything is chaos, and that's ok" />
+
+</td>
+</tr>
+</table>
+
+<!-- ───────── NOW PLAYING ───────── -->
+<table width="100%">
+<tr>
+<td width="45%" valign="top" align="center">
+
+<img src="src/imports/img3.gif" width="100%" alt="rainy alley" />
+
+</td>
+<td width="55%" valign="top" align="center">
 
 #### 🎧 now playing
 
@@ -73,7 +89,6 @@ const hyperfixations = ["Omori", "Deltarune"];
     1. Open  https://spotify-github-profile.kittinanx.com
     2. "Connect with Spotify" -> authorize -> copy the <uid> shown.
     3. Replace both YOUR_SPOTIFY_UID below with that uid.
-  Self-host: fork github.com/kittinan/spotify-github-profile -> Vercel.
 -->
 <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0f&bar_color=C5F942&bar_color_cover=true" width="320" alt="Spotify now playing" />
@@ -86,7 +101,6 @@ const hyperfixations = ["Omori", "Deltarune"];
 <!-- ───────── PROGRESS LOG (LIVE) ───────── -->
 #### 📈 /progress-log
 
-<!-- All three are LIVE — no setup. They read github.com/a1izo directly. -->
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -99,8 +113,12 @@ const hyperfixations = ["Omori", "Deltarune"];
 <!-- ───────── BOARD GRID 2 ───────── -->
 <table width="100%">
 <tr>
-<!-- LEFT: achievements -->
-<td width="60%" valign="top">
+<td width="30%" valign="top" align="center">
+
+<img src="src/imports/img4.jpg" width="100%" alt="angel" />
+
+</td>
+<td width="70%" valign="top">
 
 #### 🏆 /achievements
 
@@ -108,9 +126,7 @@ const hyperfixations = ["Omori", "Deltarune"];
 🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics <br/>
 🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects
 
-</td>
-<!-- RIGHT: languages stat -->
-<td width="40%" valign="top" align="center">
+<br/>
 
 #### 🗣️ languages
 
@@ -134,5 +150,5 @@ Always down to collab or just chat.
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6EC7,100:C5F942&height=100&section=footer" width="100%" alt="" />
+<img src="src/imports/img2.gif" width="100%" height="90" alt="" />
 </div>
