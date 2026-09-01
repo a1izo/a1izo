@@ -118,26 +118,6 @@
 
 <!-- ───────── DIVIDER ───────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
-</div>
-
-<!-- ───────── PROGRESS LOG (LIVE GITHUB STATS) ───────── -->
-## 📈 /progress-log
-
-<div align="center">
-
-<img src="./assets/stats.svg" width="49%" alt="alizo's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="alizo's GitHub streak" />
-
-<br /><br />
-
-<img src="./assets/top-langs.svg" width="49%" alt="alizo's top languages" />
-
-</div>
-
-<!-- ───────── DIVIDER ───────── -->
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
 <code>◤ ▬▬▬▬▬▬▬ ✧ ▬▬▬▬▬▬▬ ◥</code>
 </div>
