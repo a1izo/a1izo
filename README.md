@@ -24,7 +24,7 @@
 
 <img src="./alizo.jpg" width="100%" alt="alizo" />
 
-**Hi, I'm alizo** <br/>
+### Hi, I'm alizo <br/>
 <sub>Building things in Horsens 🇩🇰</sub>
 
 </td>
@@ -47,7 +47,7 @@ const games    = ["TLoU", "Deltarune"];
 <tr>
 <td width="55%" valign="top">
 
-#### ⚡ /tech-stack
+### ⚡ /tech-stack
 
 ![Java](https://img.shields.io/badge/Java-C5F942?style=flat-square&logo=openjdk&logoColor=0d0d0f&color=C5F942)
 ![Python](https://img.shields.io/badge/Python-C5F942?style=flat-square&logo=python&logoColor=0d0d0f&color=C5F942)
@@ -89,7 +89,7 @@ const games    = ["TLoU", "Deltarune"];
 </td>
 <td width="55%" valign="top" align="center">
 
-#### 🎧 now playing
+### 🎧 now playing
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="320" alt="Spotify now playing" />
 </a>
@@ -99,7 +99,7 @@ const games    = ["TLoU", "Deltarune"];
 </table>
 
 <!-- ───────── PROGRESS LOG (LIVE GITHUB STATS) ───────── -->
-#### 📈 /progress-log
+### 📈 /progress-log
 
 <div align="center">
 
@@ -129,26 +129,26 @@ const games    = ["TLoU", "Deltarune"];
 </td>
 <td width="60%" valign="top">
 
-#### 🏆 /achievements
+### 🏆 /achievements
 
-🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config <br/>
-🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics <br/>
-🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects
+<big>🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config </big><br/>
+<big>🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics </big><br/>
+<big>🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects </big>
 
 <br/>
 
-#### 🗣️ languages
+### 🗣️ languages
 
 <img src="https://img.shields.io/badge/spoken-5-C5F942?style=for-the-badge&labelColor=0d0d0f" alt="5 languages" />
 
-`EN` · `RO` · `RU` · `FR` · `DA`
+<big>`EN` · `RO` · `RU` · `FR` · `DA`</big>
 
 </td>
 </tr>
 </table>
 
 <!-- ───────── CONNECT ───────── -->
-#### ✦ let's connect
+### ✦ let's connect
 
 Always down to collab or just chat.
 
