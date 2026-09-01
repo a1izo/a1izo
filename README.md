@@ -1,15 +1,3 @@
-<!--
-  ██  ALIZO'S BOARD ✦  ██  GitHub profile README
-  Dark space-scrapbook / Y2K / Omori. Accents: lime #C5F942 · pink #FF6EC7
-  Layout uses HTML <table> because GitHub strips CSS. No rounded corners.
-  Local image files (keep them beside this README or adjust src paths):
-    banner ....... img2.gif
-    profile ...... alizo.jpg
-    /inspiration . img1.jpg
-    /white-space . img3.gif
-    /angel-aura .. img4.jpg
-  Live widgets read github.com/a1izo. Spotify needs a 1-time setup — see comment.
--->
 
 <!-- ───────── BANNER (img2.gif) ───────── -->
 <div align="center">
@@ -22,8 +10,6 @@
 <img src="https://img.shields.io/badge/📍_Horsens-🇩🇰-C5F942?style=flat-square&labelColor=0d0d0f" alt="location" />
 <a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF6EC7?style=flat-square&labelColor=0d0d0f" alt="portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF6EC7&label=pins+viewed" alt="views" />
-
-<!-- GitHub button omitted per request — this page already lives on GitHub -->
 
 <br /><br />
 
@@ -56,7 +42,6 @@ const games    = ["TLoU", "Deltarune"];
 </tr>
 </table>
 
-<!-- ───────── BOARD GRID 1 ───────── -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -105,15 +90,6 @@ const games    = ["TLoU", "Deltarune"];
 
 #### 🎧 now playing
 
-<!--
-  FUNCTIONAL SPOTIFY — one-time setup (~5 min, free):
-  Spotify won't expose now-playing to an anonymous URL, so a tiny serverless
-  function holds YOUR token and renders this live SVG.
-    1. Open  https://spotify-github-profile.kittinanx.com
-    2. "Connect with Spotify" -> authorize -> copy the <uid> shown.
-    3. Replace both YOUR_SPOTIFY_UID below with that uid.
-  After that, this card updates live with whatever you're playing.
--->
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0f&bar_color=1DB954&bar_color_cover=true" width="320" alt="Spotify now playing" />
 </a>
@@ -127,12 +103,22 @@ const games    = ["TLoU", "Deltarune"];
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+<a href="https://github.com/a1izo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" alt="alizo's GitHub stats" />
+</a>
+<a href="https://github.com/a1izo">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&stroke=FF6EC7&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="alizo's GitHub streak" />
+</a>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=a1izo&bg_color=0d0d0f&color=C5F942&line=FF6EC7&point=ffffff&area=true&hide_border=true" alt="Commit activity graph" />
+<br />
+
+<a href="https://github.com/a1izo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="alizo's top languages" />
+</a>
 
 </div>
+
+<sub>If a card ever shows as a broken image, the public stats service is momentarily rate-limited — just refresh.</sub>
 
 <!-- ───────── BOARD GRID 2 ───────── -->
 <table width="100%">
