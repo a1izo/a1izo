@@ -153,6 +153,30 @@
 
 <!-- ───────── DIVIDER ───────── -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
+<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
+</div>
+
+<!-- ───────── STATS ───────── -->
+<div align="center">
+
+## 📊 /stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff" height="165" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff" height="165" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=C5F942&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=a1izo&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies" />
+
+</div>
+
+<!-- ───────── DIVIDER ───────── -->
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
 <code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
 </div>
