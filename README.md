@@ -30,7 +30,6 @@
 </td>
 <td width="68%" valign="top">
 
-<big>
 
 `// ~/about-me.ts`
 
@@ -42,7 +41,6 @@
 
 `// learn by doing, larp it 'til it's done`
 
-</big>
 
 </td>
 </tr>
@@ -59,7 +57,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## ⚡ /tech-stack
+## /tech-stack
 
 ![Java](https://img.shields.io/badge/Java-C5F942?style=for-the-badge&logo=openjdk&logoColor=0d0d0f&color=C5F942)
 ![Python](https://img.shields.io/badge/Python-C5F942?style=for-the-badge&logo=python&logoColor=0d0d0f&color=C5F942)
@@ -68,6 +66,10 @@
 ![SQL](https://img.shields.io/badge/SQL-C5F942?style=for-the-badge&logo=postgresql&logoColor=0d0d0f&color=C5F942)
 ![React](https://img.shields.io/badge/React-C5F942?style=for-the-badge&logo=react&logoColor=0d0d0f&color=C5F942)
 ![Node.js](https://img.shields.io/badge/Node.js-C5F942?style=for-the-badge&logo=nodedotjs&logoColor=0d0d0f&color=C5F942)
+![C#](https://img.shields.io/badge/C%23-C5F942?style=for-the-badge&logo=csharp&logoColor=0d0d0f&color=C5F942)
+![.NET](https://img.shields.io/badge/.NET-C5F942?style=for-the-badge&logo=dotnet&logoColor=0d0d0f&color=C5F942)
+![Maven](https://img.shields.io/badge/Maven-C5F942?style=for-the-badge&logo=apachemaven&logoColor=0d0d0f&color=C5F942)
+![Arduino](https://img.shields.io/badge/Arduino-C5F942?style=for-the-badge&logo=arduino&logoColor=0d0d0f&color=C5F942)
 ![Tailwind](https://img.shields.io/badge/Tailwind-C5F942?style=for-the-badge&logo=tailwindcss&logoColor=0d0d0f&color=C5F942)
 ![Figma](https://img.shields.io/badge/Figma-C5F942?style=for-the-badge&logo=figma&logoColor=0d0d0f&color=C5F942)
 ![After Effects](https://img.shields.io/badge/After_Effects-C5F942?style=for-the-badge&logo=adobeaftereffects&logoColor=0d0d0f&color=C5F942)
@@ -107,7 +109,7 @@
 </td>
 <td width="55%" valign="top" align="center">
 
-## 🎧 now playing
+## /now playing
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="320" alt="Spotify now playing" />
 </a>
@@ -133,19 +135,35 @@
 </td>
 <td width="60%" valign="top">
 
-## 🏆 /achievements
+## /achievements
 
-<big><big>🏅 &nbsp;**Triple Certiport** — Python, DBs & Device Config </big></big><br/>
-<big><big>🤖 &nbsp;**Robotics Sensei** — 2 yrs teaching IT & robotics </big></big><br/>
-<big><big>🎬 &nbsp;**Timeline Wizard** — freelance edits in After Effects </big></big>
+<big><big> **Triple Certiport** - Python, DBs & Device Config </big></big><br/>
+<big><big> **Robotics Sensei** - 2 yrs teaching IT & robotics </big></big><br/>
+<big><big> **Timeline Wizard** - freelance edits in After Effects </big></big><br/>
+<big><big> **Scrum Master** - kept enough projects from crashing into deadlines </big></big><br/>
+<big><big> **Polyglot x5** - Romanian, English, French, Russian, Danish (loading) </big></big><br/>
+<big><big> **Arduino Whisperer** - taught embedded systems at ROBOCODE </big></big><br/>
+<big><big> **Query Slinger** - PostgreSQL certified </big></big>
 
 <br/>
 
-## 🗣️ languages
+## /languages
 
 <img src="https://img.shields.io/badge/spoken-5-C5F942?style=for-the-badge&labelColor=0d0d0f" alt="5 languages" />
 
-<big>`EN` · `RO` · `RU` · `FR` · `DA`</big>
+`EN - fluent` 
+<br />
+<br />
+`RO - native` 
+<br />
+<br /> 
+`RU - intermidiate`
+<br />
+<br /> 
+`FR - intermidiate`
+<br />
+<br /> 
+`DA - begginer`
 
 </td>
 </tr>
@@ -160,7 +178,7 @@
 <!-- ───────── STATS ───────── -->
 <div align="center">
 
-## 📊 /stats
+## /stats
 
 <img src="./stats.svg" height="165" alt="github stats" />
 <img src="./top-langs.svg" height="165" alt="top langs" />
