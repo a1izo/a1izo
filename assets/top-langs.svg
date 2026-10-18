@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="160.33"
+          width="160.36"
           height="8"
           fill="#00A2FF"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="160.33"
+          x="160.36"
           y="0"
-          width="76.29"
+          width="76.26"
           height="8"
           fill="#3572A5"
         />
@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="240.88"
           y="0"
-          width="13.64"
+          width="13.629999999999999"
           height="8"
           fill="#b07219"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.51999999999998"
+          x="244.51"
           y="0"
           width="12.32"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.83999999999997"
+          x="246.82999999999998"
           y="0"
-          width="12.2"
+          width="12.19"
           height="8"
           fill="#7355dd"
         />
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.03999999999996"
+          x="249.01999999999998"
           y="0"
           width="10.97"
           height="8"
@@ -201,14 +201,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#00A2FF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Luau 64.13%
+        Luau 64.14%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 30.51%
+        Python 30.50%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
