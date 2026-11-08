@@ -1,215 +1,160 @@
+<!-- ✿ alizo's board ✿  palette: paper FBF8F2 · ink 18161A · pink FF7AB6 · soft pink FFD3E6 -->
 
-<!-- ───────── BANNER ───────── -->
 <div align="center">
 
-<img src="./img2.gif" width="100%" alt="alizo's board banner" />
+<img src="./assets/board/banner-pink.gif" width="100%" alt="alizo's board banner" />
 
-# alizo's Board ✦
+<img src="./assets/board/title-board.svg" width="94%" alt="alizo's board 掲示板" />
 
-<img src="https://img.shields.io/badge/status-ONLINE-C5F942?style=flat-square&labelColor=0d0d0f" alt="online" />
-<img src="https://img.shields.io/badge/📍_Horsens-🇩🇰-C5F942?style=flat-square&labelColor=0d0d0f" alt="location" />
-<a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF6EC7?style=flat-square&labelColor=0d0d0f" alt="portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF6EC7&label=pins+viewed" alt="views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%99%A1" alt="typing intro" />
 
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C5F942&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A6+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="* system message" />
+<img src="https://img.shields.io/badge/status-online_♡-FF7AB6?style=flat-square&labelColor=18161A" alt="online" />
+<img src="https://img.shields.io/badge/📍-Horsens_🇩🇰-FF7AB6?style=flat-square&labelColor=18161A" alt="location" />
+<a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF7AB6?style=flat-square&labelColor=18161A" alt="portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF7AB6&label=visitors" alt="visitors" />
 
 </div>
 
-<!-- ───────── PROFILE + ABOUT ───────── -->
-<table width="100%">
-<tr>
-<td width="32%" valign="top" align="center">
+<img src="./assets/board/divider.svg" width="100%" alt="" />
 
-<img src="./alizo.jpg" width="100%" alt="alizo" />
+<!-- ───────── ABOUT ───────── -->
+<img src="./assets/board/pfp.png" align="left" width="290" alt="alizo" />
 
-## Hi, I'm alizo <br/>
-<sub>Building things in Horsens 🇩🇰</sub>
+<img src="./assets/board/title-about.svg" width="430" alt="about me 自己紹介" />
 
-</td>
-<td width="68%" valign="top">
+hi hi, i'm alizo <img src="./assets/board/sticker-heart.svg" height="20" alt="" /><br/>
+software engineering student by day, video editor by night.
+i learn by doing and i teach what i learn.
 
+```ts
+// ~/about-me.ts ♡
+const alizo = {
+  home:   "White Space",
+  roles:  ["student engineer", "video editor"],
+  games:  ["TLoU", "Deltarune"],
+  motto:  "learn by doing, larp it 'til it's done",
+};
+```
 
-`// ~/about-me.ts`
+<br clear="left" />
 
-`const location = "White Space";`
+<img src="./assets/board/divider.svg" width="100%" alt="" />
 
-`const roles = ["student engineer", "video editor"];`
+<!-- ───────── TECH STACK ───────── -->
+<img src="./assets/board/inspiration.png" align="right" width="320" alt="inspiration" />
 
-`const games = ["TLoU", "Deltarune"];`
+<img src="./assets/board/title-tech.svg" width="430" alt="tech stack 技術" />
 
-`// learn by doing, larp it 'til it's done`
+<sub><code>languages</code></sub><br/>
+<img src="https://img.shields.io/badge/Java-18161A?style=for-the-badge&logo=openjdk&logoColor=FF7AB6" alt="Java" />
+<img src="https://img.shields.io/badge/Python-18161A?style=for-the-badge&logo=python&logoColor=FF7AB6" alt="Python" />
+<img src="https://img.shields.io/badge/C++-18161A?style=for-the-badge&logo=cplusplus&logoColor=FF7AB6" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-18161A?style=for-the-badge&logo=csharp&logoColor=FF7AB6" alt="C#" />
+<img src="https://img.shields.io/badge/JavaScript-18161A?style=for-the-badge&logo=javascript&logoColor=FF7AB6" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-18161A?style=for-the-badge&logo=postgresql&logoColor=FF7AB6" alt="SQL" />
 
+<sub><code>frameworks & tools</code></sub><br/>
+<img src="https://img.shields.io/badge/React-FF7AB6?style=for-the-badge&logo=react&logoColor=18161A" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-FF7AB6?style=for-the-badge&logo=nodedotjs&logoColor=18161A" alt="Node.js" />
+<img src="https://img.shields.io/badge/.NET-FF7AB6?style=for-the-badge&logo=dotnet&logoColor=18161A" alt=".NET" />
+<img src="https://img.shields.io/badge/Tailwind-FF7AB6?style=for-the-badge&logo=tailwindcss&logoColor=18161A" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Maven-FF7AB6?style=for-the-badge&logo=apachemaven&logoColor=18161A" alt="Maven" />
+<img src="https://img.shields.io/badge/Arduino-FF7AB6?style=for-the-badge&logo=arduino&logoColor=18161A" alt="Arduino" />
 
-</td>
-</tr>
-</table>
+<sub><code>creative</code></sub><br/>
+<img src="https://img.shields.io/badge/Figma-FBF8F2?style=for-the-badge&logo=figma&logoColor=18161A" alt="Figma" />
+<img src="https://img.shields.io/badge/After_Effects-FBF8F2?style=for-the-badge&logo=adobeaftereffects&logoColor=18161A" alt="After Effects" />
+<img src="https://img.shields.io/badge/Premiere-FBF8F2?style=for-the-badge&logo=adobepremierepro&logoColor=18161A" alt="Premiere" />
 
-<!-- ───────── DIVIDER ───────── -->
+<sub><code>also fluent in</code></sub> <img src="./assets/board/sticker-sparkle.svg" height="18" alt="" /><br/>
+<img src="https://img.shields.io/badge/🦆_rubber_duck_therapist-FFD3E6?style=flat-square" alt="rubber duck therapist" />
+<img src="https://img.shields.io/badge/git_push_--force_(sorry)-FFD3E6?style=flat-square" alt="git push --force (sorry)" />
+<img src="https://img.shields.io/badge/professional_larper_♡-FFD3E6?style=flat-square" alt="professional larper" />
+<img src="https://img.shields.io/badge/3am_commits_☾-FFD3E6?style=flat-square" alt="3am commits" />
+
+<br clear="right" />
+
+<img src="./assets/board/divider.svg" width="100%" alt="" />
+
+<!-- ───────── CLIPPINGS ───────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
+
+<img src="./assets/board/title-clippings.svg" width="460" alt="clippings 切り抜き" /><br/>
+
+<img src="./assets/board/asa-mitaka.png" width="240" alt="asa mitaka" />
+<img src="./assets/board/jujutsu-loop.webp" width="245" alt="culling game loop" />
+<img src="./assets/board/eat-the-machine.png" width="255" alt="eat the machine" />
+
 </div>
 
-<!-- ───────── BOARD GRID 1 ───────── -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<img src="./assets/board/divider.svg" width="100%" alt="" />
 
-## /tech-stack
+<!-- ───────── NOW PLAYING ───────── -->
+<img src="./assets/board/white-space.webp" align="left" width="290" alt="white space" />
 
-![Java](https://img.shields.io/badge/Java-C5F942?style=for-the-badge&logo=openjdk&logoColor=0d0d0f&color=C5F942)
-![Python](https://img.shields.io/badge/Python-C5F942?style=for-the-badge&logo=python&logoColor=0d0d0f&color=C5F942)
-![C++](https://img.shields.io/badge/C++-C5F942?style=for-the-badge&logo=cplusplus&logoColor=0d0d0f&color=C5F942)
-![JavaScript](https://img.shields.io/badge/JavaScript-C5F942?style=for-the-badge&logo=javascript&logoColor=0d0d0f&color=C5F942)
-![SQL](https://img.shields.io/badge/SQL-C5F942?style=for-the-badge&logo=postgresql&logoColor=0d0d0f&color=C5F942)
-![React](https://img.shields.io/badge/React-C5F942?style=for-the-badge&logo=react&logoColor=0d0d0f&color=C5F942)
-![Node.js](https://img.shields.io/badge/Node.js-C5F942?style=for-the-badge&logo=nodedotjs&logoColor=0d0d0f&color=C5F942)
-![C#](https://img.shields.io/badge/C%23-C5F942?style=for-the-badge&logo=csharp&logoColor=0d0d0f&color=C5F942)
-![.NET](https://img.shields.io/badge/.NET-C5F942?style=for-the-badge&logo=dotnet&logoColor=0d0d0f&color=C5F942)
-![Maven](https://img.shields.io/badge/Maven-C5F942?style=for-the-badge&logo=apachemaven&logoColor=0d0d0f&color=C5F942)
-![Arduino](https://img.shields.io/badge/Arduino-C5F942?style=for-the-badge&logo=arduino&logoColor=0d0d0f&color=C5F942)
-![Tailwind](https://img.shields.io/badge/Tailwind-C5F942?style=for-the-badge&logo=tailwindcss&logoColor=0d0d0f&color=C5F942)
-![Figma](https://img.shields.io/badge/Figma-C5F942?style=for-the-badge&logo=figma&logoColor=0d0d0f&color=C5F942)
-![After Effects](https://img.shields.io/badge/After_Effects-C5F942?style=for-the-badge&logo=adobeaftereffects&logoColor=0d0d0f&color=C5F942)
-![Premiere](https://img.shields.io/badge/Premiere-C5F942?style=for-the-badge&logo=adobepremierepro&logoColor=0d0d0f&color=C5F942)
+<img src="./assets/board/title-now-playing.svg" width="430" alt="now playing 再生中" /><br/>
 
-**also fluent in**
-
-![Rubber Duck Debugging](https://img.shields.io/badge/Rubber_Duck_Debugging-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
-![git push --force](https://img.shields.io/badge/git_push_--force-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
-![larping](https://img.shields.io/badge/larping-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
-![3am Commits](https://img.shields.io/badge/3am_Commits-FF6EC7?style=for-the-badge&labelColor=0d0d0f&color=FF6EC7)
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="./img1.jpg" width="100%" alt="/inspiration" />
-<sub><code>/inspiration</code></sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ───────── DIVIDER ───────── -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✧ ▬▬▬▬▬▬▬ ◥</code>
-</div>
-
-<!-- ───────── NOW PLAYING (functional Spotify) ───────── -->
-<table width="100%">
-<tr>
-<td width="45%" valign="top" align="center">
-
-<img src="./img3.gif" width="100%" alt="/white-space" />
-<sub><code>/white-space</code></sub>
-
-</td>
-<td width="55%" valign="top" align="center">
-
-## /now playing
 <a href="https://open.spotify.com/user/87qy9a329m180u3oomp1am55e">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="320" alt="Spotify now playing" />
-</a>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=87qy9a329m180u3oomp1am55e&cover_image=true&theme=compact&show_offline=false&background_color=18161A&interchange=false&profanity=false&hide_remaster=false" width="360" alt="Spotify now playing" />
+</a><br/>
 
-</td>
-</tr>
-</table>
+<img src="./assets/board/currently.svg" width="380" alt="currently playing cyberpunk co-op" />
 
-<!-- ───────── DIVIDER ───────── -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✧ ▬▬▬▬▬▬▬ ◥</code>
-</div>
+<br clear="left" />
 
-<!-- ───────── BOARD GRID 2 ───────── -->
-<table width="100%">
-<tr>
-<td width="40%" valign="top" align="center">
+<img src="./assets/board/divider.svg" width="100%" alt="" />
 
-<img src="./img4.jpg" width="100%" alt="/angel-aura" />
-<sub><code>/angel-aura</code></sub>
+<!-- ───────── ACHIEVEMENTS + LANGUAGES ───────── -->
+<img src="./assets/board/angel-aura.png" align="right" width="275" alt="angel aura" />
 
-</td>
-<td width="60%" valign="top">
+<img src="./assets/board/title-achievements.svg" width="430" alt="achievements 実績" />
 
-## /achievements
+♡ **triple certiport** · python, databases & device config<br/>
+♡ **robotics sensei** · 2 years teaching IT & robotics<br/>
+♡ **timeline wizard** · freelance edits in after effects<br/>
+♡ **scrum master** · kept our projects from crashing into deadlines<br/>
+♡ **arduino whisperer** · taught embedded systems at ROBOCODE<br/>
+♡ **query slinger** · postgresql certified
 
-<big><big> **Triple Certiport** - Python, DBs & Device Config </big></big><br/>
-<big><big> **Robotics Sensei** - 2 yrs teaching IT & robotics </big></big><br/>
-<big><big> **Timeline Wizard** - freelance edits in After Effects </big></big><br/>
-<big><big> **Scrum Master** - kept enough projects from crashing into deadlines </big></big><br/>
-<big><big> **Polyglot x5** - Romanian, English, French, Russian, Danish (loading) </big></big><br/>
-<big><big> **Arduino Whisperer** - taught embedded systems at ROBOCODE </big></big><br/>
-<big><big> **Query Slinger** - PostgreSQL certified </big></big>
+<img src="./assets/board/title-languages.svg" width="430" alt="languages 言語" />
 
-<br/>
+```
+RO  ♥ ♥ ♥ ♥ ♥   native
+EN  ♥ ♥ ♥ ♥ ♥   fluent
+FR  ♥ ♥ ♥ ♡ ♡   intermediate
+RU  ♥ ♥ ♥ ♡ ♡   intermediate
+DA  ♥ ♡ ♡ ♡ ♡   beginner (loading...)
+```
 
-## /languages
+<br clear="right" />
 
-<img src="https://img.shields.io/badge/spoken-5-C5F942?style=for-the-badge&labelColor=0d0d0f" alt="5 languages" />
-
-`EN - fluent` 
-<br />
-<br />
-`RO - native` 
-<br />
-<br /> 
-`RU - intermidiate`
-<br />
-<br /> 
-`FR - intermidiate`
-<br />
-<br /> 
-`DA - begginer`
-
-</td>
-</tr>
-</table>
-
-<!-- ───────── DIVIDER ───────── -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C5F942&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
-</div>
+<img src="./assets/board/divider.svg" width="100%" alt="" />
 
 <!-- ───────── STATS ───────── -->
 <div align="center">
 
-## /stats
+<img src="./assets/board/title-stats.svg" width="400" alt="stats 統計" /><br/>
 
-<img src="./stats.svg" height="165" alt="github stats" />
-<img src="./top-langs.svg" height="165" alt="top langs" />
+<img src="./stats.svg" height="160" alt="github stats" />
+<img src="./top-langs.svg" height="160" alt="top languages" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a1izo&hide_border=true&background=0d0d0f&ring=C5F942&fire=FF6EC7&currStreakLabel=C5F942&sideLabels=C5F942&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+<img src="./assets/board/divider.svg" width="100%" alt="" />
+
+<!-- ───────── SAY HI ───────── -->
+<div align="center">
+
+<img src="./assets/board/title-connect.svg" width="420" alt="say hi 連絡" />
+
+always happy to collab, or to just chat <img src="./assets/board/sticker-star.svg" height="20" alt="" />
+
+<a href="mailto:alexturcanu03@gmail.com"><img src="https://img.shields.io/badge/send_a_letter_♡-FF7AB6?style=for-the-badge&logo=gmail&logoColor=18161A" alt="email" /></a>
+<a href="https://www.linkedin.com/in/alexandru-turcanu-377642295"><img src="https://img.shields.io/badge/LinkedIn-18161A?style=for-the-badge&logo=linkedin&logoColor=FF7AB6" alt="linkedin" /></a>
+<a href="https://alextudev.com"><img src="https://img.shields.io/badge/website-FBF8F2?style=for-the-badge&logo=googlechrome&logoColor=18161A" alt="website" /></a>
 
 <br/><br/>
 
-<img src="https://github-trophies.devomb.com/?username=a1izo&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies" />
+<img src="./assets/board/banner-pink.gif" width="100%" alt="" />
 
-</div>
-
-<!-- ───────── DIVIDER ───────── -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5F942,100:FF6EC7&height=6&section=header&text=%20" width="100%" alt="" />
-<code>◤ ▬▬▬▬▬▬▬ ✦ ▬▬▬▬▬▬▬ ◥</code>
-</div>
-
-<!-- ───────── CONNECT ───────── -->
-## ✦ let's connect
-
-<big>Always down to collab or just chat.</big>
-
-<p>
-<a href="mailto:alexturcanu03@gmail.com"><img src="https://img.shields.io/badge/Transmit_a_message-↗-C5F942?style=for-the-badge&logo=gmail&logoColor=0d0d0f&labelColor=0d0d0f&color=C5F942" alt="email" /></a>
-<a href="https://github.com/a1izo"><img src="https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=0d0d0f&labelColor=0d0d0f&color=FF6EC7" alt="github" /></a>
-<a href="https://www.linkedin.com/in/alexandru-turcanu-377642295"><img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=0d0d0f&labelColor=0d0d0f&color=FF6EC7" alt="linkedin" /></a>
-</p>
-
-<div align="center">
-<img src="./img2.gif" width="100%" alt="" />
 </div>
