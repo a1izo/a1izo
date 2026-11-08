@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/board/banner-pink.gif" width="100%" alt="alizo's board banner" />
-
-<img src="./assets/board/title-board.svg" width="94%" alt="alizo's board 掲示板" />
+<img src="./assets/board/banner-header.gif" width="100%" alt="alizo's board 掲示板" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="typing intro" />
 
