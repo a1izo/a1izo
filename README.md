@@ -4,9 +4,9 @@
 
 <img src="./assets/board/banner-header.gif" width="100%" alt="alizo's board 掲示板" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%99%A1" alt="typing intro" />
 
-<img src="https://img.shields.io/badge/status-online-FF7AB6?style=flat-square&labelColor=18161A" alt="online" />
+<img src="https://img.shields.io/badge/status-online_♡-FF7AB6?style=flat-square&labelColor=18161A" alt="online" />
 <img src="https://img.shields.io/badge/📍-Horsens_🇩🇰-FF7AB6?style=flat-square&labelColor=18161A" alt="location" />
 <a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF7AB6?style=flat-square&labelColor=18161A" alt="portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF7AB6&label=visitors" alt="visitors" />
@@ -107,12 +107,12 @@ const alizo = {
 
 <img src="./assets/board/title-achievements.svg" width="430" alt="achievements 実績" />
 
-✦ **triple certiport** · python, databases & device config<br/>
-✦ **robotics sensei** · 2 years teaching IT & robotics<br/>
-✦ **timeline wizard** · freelance edits in after effects<br/>
-✦ **scrum master** · kept our projects from crashing into deadlines<br/>
-✦ **arduino whisperer** · taught embedded systems at ROBOCODE<br/>
-✦ **query slinger** · postgresql certified
+♡ **triple certiport** · python, databases & device config<br/>
+♡ **robotics sensei** · 2 years teaching IT & robotics<br/>
+♡ **timeline wizard** · freelance edits in after effects<br/>
+♡ **scrum master** · kept our projects from crashing into deadlines<br/>
+♡ **arduino whisperer** · taught embedded systems at ROBOCODE<br/>
+♡ **query slinger** · postgresql certified
 
 <img src="./assets/board/title-languages.svg" width="430" alt="languages 言語" />
 
