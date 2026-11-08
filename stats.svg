@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #C5F942;
+            fill: #18161A;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ffffff;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #18161A;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #18161A;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #FF6EC7;
+      fill: #FF7AB6;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #C5F942;
+      stroke: #FF7AB6;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #C5F942;
+      stroke: #FF7AB6;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -114,11 +114,11 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="14"
           height="99%"
           stroke="#e4e2e2"
           width="466"
-          fill="#0d0d0f"
+          fill="#FBF8F2"
           stroke-opacity="0"
         />
 

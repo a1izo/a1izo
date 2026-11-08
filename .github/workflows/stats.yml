@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff
+          options: username=a1izo&show_icons=true&hide_border=true&bg_color=FBF8F2&border_radius=14&title_color=18161A&icon_color=FF7AB6&ring_color=FF7AB6&text_color=18161A
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff
+          options: username=a1izo&layout=compact&hide_border=true&bg_color=FBF8F2&border_radius=14&title_color=18161A&text_color=18161A
           path: top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

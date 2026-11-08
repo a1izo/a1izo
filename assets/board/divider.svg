@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 44" width="860" height="44" role="img" aria-label="divider"><title>divider</title>
+<style>
+  .spin{transform-box:fill-box;transform-origin:center;animation:spin 7s linear infinite}
+  .beat{transform-box:fill-box;transform-origin:center;animation:beat 1.4s ease-in-out infinite}
+  .blink{transform-box:fill-box;transform-origin:center;animation:blink 2.2s ease-in-out infinite}
+  .blink2{transform-box:fill-box;transform-origin:center;animation:blink 2.2s ease-in-out 1.1s infinite}
+  .bob{animation:bob 3s ease-in-out infinite}
+  .swipe{stroke-dasharray:var(--len);stroke-dashoffset:var(--len);animation:swipe 4.5s ease-in-out infinite}
+  .cursor{animation:cur 1s steps(1) infinite}
+  .march{animation:march 1.6s linear infinite}
+  .float{animation:float 3.6s ease-in infinite}
+  .float2{animation:float 3.6s ease-in 1.8s infinite}
+  .wiggle{transform-box:fill-box;transform-origin:center;animation:wig 2.6s ease-in-out infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes beat{0%,100%{transform:scale(1)}15%{transform:scale(1.22)}30%{transform:scale(.96)}45%{transform:scale(1.12)}}
+  @keyframes blink{0%,100%{opacity:.2;transform:scale(.6)}50%{opacity:1;transform:scale(1.1)}}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  @keyframes swipe{0%{stroke-dashoffset:var(--len)}35%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:calc(var(--len) * -1)}}
+  @keyframes cur{50%{opacity:0}}
+  @keyframes march{to{stroke-dashoffset:-24}}
+  @keyframes float{0%{transform:translateY(0);opacity:0}15%{opacity:1}100%{transform:translateY(-34px);opacity:0}}
+  @keyframes wig{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><path class="march" d="M60 22 L390.0 22 M470.0 22 L800 22" stroke="#FF7AB6" stroke-width="3" stroke-dasharray="12 12" stroke-linecap="round"/><path class="beat" d="M430.0 33.0 C413.8 22.6 416.4 8.3 430.0 16.1 C443.6 8.3 446.2 22.6 430.0 33.0Z" fill="#FF7AB6"/><path class="blink" d="M404.0 8.0 L405.3 12.7 L410.0 14.0 L405.3 15.3 L404.0 20.0 L402.7 15.3 L398.0 14.0 L402.7 12.7Z" fill="#FF7AB6"/><path class="blink2" d="M456.0 24.0 L457.3 28.7 L462.0 30.0 L457.3 31.3 L456.0 36.0 L454.7 31.3 L450.0 30.0 L454.7 28.7Z" fill="#FF7AB6"/><path d="M14 30 l9 -14 M25 30 l9 -14 M36 30 l9 -14" stroke="#FF7AB6" stroke-width="3" stroke-linecap="round"/><path d="M814 30 l9 -14 M825 30 l9 -14 M836 30 l9 -14" stroke="#FF7AB6" stroke-width="3" stroke-linecap="round"/></svg>

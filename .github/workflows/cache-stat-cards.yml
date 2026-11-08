@@ -19,8 +19,8 @@ jobs:
       - name: Fetch stat cards
         run: |
           mkdir -p assets
-          STATS="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=C5F942&icon_color=FF6EC7&text_color=ffffff&include_all_commits=true&count_private=true"
-          LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=C5F942&text_color=ffffff&langs_count=8"
+          STATS="https://github-readme-stats.vercel.app/api?username=a1izo&show_icons=true&hide_border=true&bg_color=FBF8F2&border_radius=14&title_color=18161A&icon_color=FF7AB6&ring_color=FF7AB6&text_color=18161A&include_all_commits=true&count_private=true"
+          LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=a1izo&layout=compact&hide_border=true&bg_color=FBF8F2&border_radius=14&title_color=18161A&text_color=18161A&langs_count=8"
 
           # -f fails on HTTP errors (so 429 triggers a retry and the guard below),
           # --connect-timeout/--max-time stop curl from hanging forever.
