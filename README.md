@@ -6,9 +6,9 @@
 
 <img src="./assets/board/title-board.svg" width="94%" alt="alizo's board 掲示板" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%99%A1" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=FF7AB6&center=true&vCenter=true&width=760&height=52&lines=%E2%9C%A7+You+open+the+laptop.+The+fan+hums+a+familiar+tune.;Something+is+loading.+It+has+been+loading+a+while+now.;%22Waiting+for+something+to+happen%3F%22++%E2%96%B8+continue+%E2%96%BE" alt="typing intro" />
 
-<img src="https://img.shields.io/badge/status-online_♡-FF7AB6?style=flat-square&labelColor=18161A" alt="online" />
+<img src="https://img.shields.io/badge/status-online-FF7AB6?style=flat-square&labelColor=18161A" alt="online" />
 <img src="https://img.shields.io/badge/📍-Horsens_🇩🇰-FF7AB6?style=flat-square&labelColor=18161A" alt="location" />
 <a href="https://alextudev.com"><img src="https://img.shields.io/badge/portfolio-alextudev.com-FF7AB6?style=flat-square&labelColor=18161A" alt="portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=a1izo&style=flat-square&color=FF7AB6&label=visitors" alt="visitors" />
@@ -27,7 +27,7 @@ software engineering student by day, video editor by night.
 i learn by doing and i teach what i learn.
 
 ```ts
-// ~/about-me.ts ♡
+// ~/about-me.ts
 const alizo = {
   home:   "White Space",
   roles:  ["student engineer", "video editor"],
@@ -83,7 +83,7 @@ const alizo = {
 
 <img src="./assets/board/asa-mitaka.png" width="240" alt="asa mitaka" />
 <img src="./assets/board/jujutsu-loop.webp" width="245" alt="culling game loop" />
-<img src="./assets/board/eat-the-machine.png" width="255" alt="eat the machine" />
+<img src="./assets/board/pink-noise.png" width="255" alt="pink noise" />
 
 </div>
 
@@ -109,21 +109,21 @@ const alizo = {
 
 <img src="./assets/board/title-achievements.svg" width="430" alt="achievements 実績" />
 
-♡ **triple certiport** · python, databases & device config<br/>
-♡ **robotics sensei** · 2 years teaching IT & robotics<br/>
-♡ **timeline wizard** · freelance edits in after effects<br/>
-♡ **scrum master** · kept our projects from crashing into deadlines<br/>
-♡ **arduino whisperer** · taught embedded systems at ROBOCODE<br/>
-♡ **query slinger** · postgresql certified
+✦ **triple certiport** · python, databases & device config<br/>
+✦ **robotics sensei** · 2 years teaching IT & robotics<br/>
+✦ **timeline wizard** · freelance edits in after effects<br/>
+✦ **scrum master** · kept our projects from crashing into deadlines<br/>
+✦ **arduino whisperer** · taught embedded systems at ROBOCODE<br/>
+✦ **query slinger** · postgresql certified
 
 <img src="./assets/board/title-languages.svg" width="430" alt="languages 言語" />
 
 ```
-RO  ♥ ♥ ♥ ♥ ♥   native
-EN  ♥ ♥ ♥ ♥ ♥   fluent
-FR  ♥ ♥ ♥ ♡ ♡   intermediate
-RU  ♥ ♥ ♥ ♡ ♡   intermediate
-DA  ♥ ♡ ♡ ♡ ♡   beginner (loading...)
+RO  ★ ★ ★ ★ ★   native
+EN  ★ ★ ★ ★ ★   fluent
+FR  ★ ★ ★ ☆ ☆   intermediate
+RU  ★ ★ ★ ☆ ☆   intermediate
+DA  ★ ☆ ☆ ☆ ☆   beginner (loading...)
 ```
 
 <br clear="right" />
